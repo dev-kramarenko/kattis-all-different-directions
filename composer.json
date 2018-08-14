@@ -1,5 +1,5 @@
 {
-  "name": "alexkramarenko/alldiffdirections",
+  "name": "dev-kramarenko/kattis-all-different-directions",
   "description": "Kattis All Different Directions",
   "license": "MIT",
   "authors": [
@@ -16,10 +16,7 @@
   "autoload-dev": {
     "psr-4": {
       "Tests\\": "tests/"
-    },
-    "classmap": [
-      "tests/Test.php"
-    ]
+    }
   },
   "minimum-stability": "dev",
   "require": {},
